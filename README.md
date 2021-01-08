@@ -7,6 +7,7 @@
 * matplotlib
 * sklearn
 * keras
+* tensorflow
 
 ### Instructions:
 How the AlexNet Convolutional Neural Network(CNN) architecture is implemented using TensorFlow and Keras.
